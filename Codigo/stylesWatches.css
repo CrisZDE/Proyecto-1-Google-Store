@@ -219,7 +219,7 @@ main{
 
 select {
     width: 95px;
-    height: 60px;
+    height: 64px;
     border-radius: 10px;
     border: 1px solid var(--building-color4);
     background-color: var(--building-color1);
