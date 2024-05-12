@@ -217,11 +217,19 @@ main{
     gap: 9px;
 }
 
-input {
+select {
     width: 95px;
     height: 60px;
     border-radius: 10px;
     border: 1px solid var(--building-color4);
+    background-color: var(--building-color1);
+    background-image: url(/Recursos/images/icons/imputFlecha.svg);
+    background-repeat: no-repeat;
+    background-position: 70px center;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    appearance: none;
     color: var(--building-color4);
     font-size: 12px;
     font-weight: bold;
